@@ -104,6 +104,5 @@ def find_district(lat, long):
 
 start = time.time()
 find_district(-122.17151792916684,37.44872114728699)
-lstripc
 end = time.time()
 print("Time taken in seconds: " + str(end - start))
